@@ -87,7 +87,9 @@ body {
   align-items: center;
   gap: 5px;
 }
-
+.time__text {
+  color: rgb(0, 216, 205);
+}
 .time__time {
   color: hsl(215, 51%, 70%);
 }
